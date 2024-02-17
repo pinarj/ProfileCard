@@ -1,0 +1,25 @@
+.ibo{
+  width:50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.text-box{
+  font-size: 18px;
+  border:none;
+}
+.tweet-button{
+  background-color: rgb(1, 118, 201);
+  color:white;
+  border:none;
+  border-radius: 50px;
+  font-size: 14px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: bold;
+  vertical-align: middle;
+}

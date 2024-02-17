@@ -1,0 +1,42 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.card{
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);    
+}
+.profile-pic{
+  width: 200px;
+  object-fit: cover;
+  height: 200px;
+  margin-bottom: 12px;
+}
+
+.text-one{
+  color:black;
+  font-weight: bold;
+  display: block;
+
+
+}
+.text-two{
+  color: grey;
+  margin-left: 8px;
+  margin-bottom: 12px;
+}
+.add-button{
+  background-color: rgb(25, 120, 245);
+  color: white;
+  border-radius: 4px;
+  border:none;
+  padding-right: 13px;
+  padding-left: 13px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size:12px;
+  margin-left: 8px;
+  margin-bottom: 10px;
+
+}

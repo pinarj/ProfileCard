@@ -1,0 +1,35 @@
+.card{
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: rgb(255, 254, 254);
+  width: 500px;
+  margin-left: 1px;
+  border-radius: 7px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.profile-pic{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+  object
+}
+.text-box{ 
+  border: none;
+}
+.tweet-button{
+  background-color: rgba(0, 120, 153, 0.65);
+  border: none;
+  border-radius: 35px;
+  color:white;
+  font-size: 15px;
+  size: 9px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}

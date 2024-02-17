@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.body {
+  height: 100vh; 
+  overflow: hidden;
+  background-color: linear-gradient(45deg,#061de3,#e3e3e3);
+  font-family: helvetica,sans-serif ;
+  color: rgb(28, 83, 131);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  .container {
+  width: 350px;
+  height: 500px; 
+  }
+  .card:hover{
+  cursor:pointer;
+
+  }
+  .card {
+  height: 100%;
+  width: 100%;
+ 
+  }
+ .front,
+ .back{
+  height: 100%;
+  width: 100%;
+  border-radius: 60px;
+  box-shadow: 0 0 5px 2px rgba(50, 50, 50,0.25) ;
+  position: absolute;
+ }
+ .front{
+  background-image: url(https://png.pngtree.com/png-clipart/20230511/ourmid/pngtree-isolated-cat-on-white-background-png-image_7094927.png)
+ }
+ 
